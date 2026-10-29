@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Like icon" clip-path="url(#clip0_0_7)">
+<path id="Vector" d="M11 21.45C16.7714 21.45 21.45 16.7714 21.45 11C21.45 5.22862 16.7714 0.55 11 0.55C5.22862 0.55 0.55 5.22862 0.55 11C0.55 16.7714 5.22862 21.45 11 21.45Z" fill="url(#paint0_linear_0_7)" stroke-width="1.375" stroke="white"/>
+<g id="Group">
+<path id="Vector_2" d="M5.70625 15.3312H7.63125V9.55625H5.70625V15.3312ZM16.2938 10.0375C16.2938 9.50812 15.8606 9.075 15.3312 9.075H12.2946L12.7517 6.87569L12.7662 6.72169C12.7662 6.52437 12.6844 6.3415 12.5544 6.21156L12.0443 5.70625L8.87769 8.87769C8.69963 9.05094 8.59375 9.29156 8.59375 9.55625V14.3687C8.59375 14.8981 9.02687 15.3312 9.55625 15.3312H13.8875C14.2869 15.3312 14.6286 15.0906 14.773 14.7441L16.2264 11.3513C16.2697 11.2406 16.2938 11.1251 16.2938 11V10.0375Z" fill="white"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_7" x1="0.55" y1="0.55" x2="0.55" y2="21.45" gradientUnits="userSpaceOnUse">
+<stop stop-color="#18AFFF"/>
+<stop offset="1" stop-color="#0062DF"/>
+</linearGradient>
+<clipPath id="clip0_0_7">
+<rect width="22" height="22" fill="white"/>
+</clipPath>
+</defs>
+</svg>
